@@ -1,0 +1,21 @@
+#tavoloDaGioco{
+    background-color: darkslategrey;
+    height: 100%;
+    width: 100%;
+}
+
+img{
+    width: 100px;
+    height: 200px;
+}
+
+table{
+    margin-left: 35%;
+}
+
+h1{
+    color: crimson;
+    size: 24px;
+    text-align: center;
+    font-style: italic;
+}

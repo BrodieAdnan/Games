@@ -1,0 +1,2 @@
+Labirinto è quello senza il ritardo: ad ogni click del mouse va avanti di una sola casella.
+Labirinto2 è quello definitivo: usa il ritardo e tenendo il mouse premuto continua ad andare avanti.

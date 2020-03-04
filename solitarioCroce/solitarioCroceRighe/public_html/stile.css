@@ -1,0 +1,67 @@
+img
+{
+    height: 170px;
+    width: 65px;
+}
+
+td 
+{
+    height: 175px;
+    width: 70px;
+    padding: 15px;
+}
+
+table, td, th {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+table
+{
+    margin: 15px auto;
+}
+
+body
+{
+    background-image: url(".\\Trevisane\\sfondo.jpg");
+}
+
+#divRigioca
+{
+    margin: auto;
+    width: 110px;
+}
+
+#bottoneRigioca
+{   
+    width:100%; 
+    height:100%;
+    outline: none;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    font: bold 12px Arial, Helvetica, sans-serif;
+    color: #fff;
+    padding: 10px 20px;
+    border: solid 1px #0076a3;
+    background: #0095cd;
+    background: -webkit-gradient(linear, left top, left bottom, from(#00adee), to(#0078a5));
+    background: -webkit-linear-gradient(top,  #00adee,  #0078a5);
+    background: -moz-linear-gradient(top,  #00adee,  #0078a5);
+    background: -ms-linear-gradient(top,  #00adee,  #0078a5);
+    background: -o-linear-gradient(top,  #00adee,  #0078a5);
+    -moz-border-radius: 8px;
+    -webkit-border-radius: 8px;
+    border-radius: 8px;
+    -moz-box-shadow: 0 1px 3px rgba(0,0,0,0.5);
+    -webkit-box-shadow: 0 1px 3px rgba(0,0,0,0.5);
+    box-shadow: 0 1px 3px rgba(0,0,0,0.5);
+}
+
+#debug
+{
+    float: left;
+    margin: auto;
+    padding: 15px;
+    width: 200px;
+}
